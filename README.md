@@ -8,4 +8,8 @@ I’m also working on a new digital cheeseburger which are a great alternative f
 
 Check back for updates!
 
+--
+
+Ok, so I've decided to use my hello-world repo to host all of the files I'm working on while learning Javascript and basic programming fundamentals.
+
 Benjamin
